@@ -1,2 +1,1 @@
-grit is all I need right now
-hmmmmmm sigh
+my first readme/
